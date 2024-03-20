@@ -3,6 +3,8 @@
   margin: 0;
   box-sizing: border-box;
   color: #fff;
+}
+body {
   background-image: url(./image/bg-img.jpeg) ;
   background-size: cover;
   background-repeat: no-repeat;
